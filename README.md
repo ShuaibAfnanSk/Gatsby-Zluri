@@ -97,6 +97,8 @@ or you can use this instead of gatsby develop:
 ## Submission
 
 Submit this site link along with any thoughts or comments you would like to add.
-   
-"# Gatsby-Zluri" 
-"# Gatsby-Zluri" 
+
+ ### "Site link" https://shuaibafnanmain.gatsbyjs.io/
+
+Thanks, For giving me oppurtunity to participate and compete with others and selecting me for this incredible activity it helped me to learn a lot of new things and further extend my knowledge.
+
